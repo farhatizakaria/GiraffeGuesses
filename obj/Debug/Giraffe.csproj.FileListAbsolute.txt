@@ -1,0 +1,6 @@
+c:\users\hilcomputer\documents\visual studio 2013\Projects\Giraffe\Giraffe\bin\Debug\Giraffe.exe.config
+c:\users\hilcomputer\documents\visual studio 2013\Projects\Giraffe\Giraffe\bin\Debug\Giraffe.exe
+c:\users\hilcomputer\documents\visual studio 2013\Projects\Giraffe\Giraffe\bin\Debug\Giraffe.pdb
+c:\users\hilcomputer\documents\visual studio 2013\Projects\Giraffe\Giraffe\obj\Debug\Giraffe.csprojResolveAssemblyReference.cache
+c:\users\hilcomputer\documents\visual studio 2013\Projects\Giraffe\Giraffe\obj\Debug\Giraffe.exe
+c:\users\hilcomputer\documents\visual studio 2013\Projects\Giraffe\Giraffe\obj\Debug\Giraffe.pdb
